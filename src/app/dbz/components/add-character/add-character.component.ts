@@ -11,14 +11,12 @@ export class AddCharacterComponent {
   @Output()
   onNewCharacter: EventEmitter<Character> = new EventEmitter();
   public character: Character = {
-    id: uuid(),
     name: '',
     power: 0,
   };
 
   emitCharacter(): void {
     if (this.character.name.length === 0) return;
-    console.log('add-character.emitCharacter: ', this.character);
     this.onNewCharacter.emit(this.character);
     this.character = { name: '', power: 0 };
   }
