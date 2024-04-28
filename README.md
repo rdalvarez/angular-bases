@@ -1,4 +1,4 @@
-# Bases de Angular
+# Curso de Angular - Bases
 
 1. Profundizar un poco más en los módulos
 
@@ -18,5 +18,6 @@
 
 ## Deploys
 [netlify](https://rococo-melomakarona-556075.netlify.app/)
+
 [github-pages](https://rdalvarez.github.io/angular-bases/)
 
