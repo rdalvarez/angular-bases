@@ -1,27 +1,22 @@
 # Bases de Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.1.
+1. Profundizar un poco más en los módulos
 
-## Development server
+2. FormsModule
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+3. ngModel
 
-## Code scaffolding
+4. @Inputs
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+5. @outputs
 
-## Build
+6. Servicios
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+7. Métodos en servicios
 
-## Running unit tests
+8. Depuraciones
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Deploys
+[netlify](https://rococo-melomakarona-556075.netlify.app/)
+[github-pages](https://rdalvarez.github.io/angular-bases/)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
